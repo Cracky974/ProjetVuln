@@ -2,6 +2,10 @@
     BIBLIOTHÈQUE DE LIENS DYNAMIQUES : Vue d'ensemble du projet dump.dll
 ========================================================================
 
+
+test
+
+
 AppWizard a créé cette DLL dump.dll pour vous.
 
 Ce fichier contient un résumé du contenu de chacun des fichiers qui constituent votre application dump.dll.
